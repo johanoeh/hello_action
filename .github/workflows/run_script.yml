@@ -20,4 +20,4 @@ jobs:
             python-version: 3.8 #install the python needed
             
       - name: running python script
-        run: ./scripts/hello.py
+        run: .github/workflows/hello.py
